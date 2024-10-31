@@ -1,4 +1,4 @@
-# Flask Task Manager 
+# Task Manager 
 Simple Flask (Python) app with basic CRUD operations for MongoDB, managed with Docker Compose.
 
 # Technology
